@@ -1,0 +1,1469 @@
+{
+  "chain": [
+    {
+      "index": 1,
+      "timestamp": 1764729911.8181696,
+      "barangay": "Alang-alang",
+      "votes": [
+        {
+          "voter_id": "1",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "2",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "3",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "01",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ANACTA, KATRINA (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "02",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "03",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "UY, FRICH BAYLON (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "04",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "ESCOTO, BOTOY (LAKAS)"
+            ]
+          }
+        },
+        {
+          "voter_id": "05",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "UY, FRICH BAYLON (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "06",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "07",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "TIU, GLAIZA (PFP)",
+              "AFABLE, CRIS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "08",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ABOBO, WILFRED (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "010",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "BAGRO, CELERINO JR. (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "011",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "013",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "014",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "015",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "016",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "017",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "018",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "ANACTA, KATRINA (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "019",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "0",
+      "hash": "4950d672360c40e37de1e79717a77c10a40a14866a5915b17d49efddd635d937"
+    },
+    {
+      "index": 2,
+      "timestamp": 1764729911.8420353,
+      "barangay": "Amantacop",
+      "votes": [
+        {
+          "voter_id": "4",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "20",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "21",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "22",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "GALO, IAN ERVIN (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "23",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "24",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "25",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "26",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "27",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)"
+            ]
+          }
+        },
+        {
+          "voter_id": "28",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "29",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)"
+            ]
+          }
+        },
+        {
+          "voter_id": "30",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "BAGACAY, TOTOY ENAT (IND)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "55",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "60",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "4950d672360c40e37de1e79717a77c10a40a14866a5915b17d49efddd635d937",
+      "hash": "2052c3575de4cb47b7c2dc6206b3bce752051ddfbd8b7be09ed38cea5148a36d"
+    },
+    {
+      "index": 3,
+      "timestamp": 1764729911.8516066,
+      "barangay": "Ando",
+      "votes": [
+        {
+          "voter_id": "5",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "31",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "32",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "33",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "34",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "35",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "36",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "37",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "38",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "39",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "40",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "031",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "032",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "033",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "034",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "56",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)"
+            ]
+          }
+        },
+        {
+          "voter_id": "61",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "2052c3575de4cb47b7c2dc6206b3bce752051ddfbd8b7be09ed38cea5148a36d",
+      "hash": "6628484d065df617864bfd8f7c53652a1f587c2f8e3dffdf15c06ba87dab2ee4"
+    },
+    {
+      "index": 4,
+      "timestamp": 1764729911.8636312,
+      "barangay": "Balacdas",
+      "votes": [
+        {
+          "voter_id": "6",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "41",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)"
+            ]
+          }
+        },
+        {
+          "voter_id": "42",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "43",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "6628484d065df617864bfd8f7c53652a1f587c2f8e3dffdf15c06ba87dab2ee4",
+      "hash": "274feaeb880a419bbb991d6e411caec1f7318a0d7533b1305607a704617118a0"
+    },
+    {
+      "index": 5,
+      "timestamp": 1764729911.873099,
+      "barangay": "Balud",
+      "votes": [
+        {
+          "voter_id": "7",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "274feaeb880a419bbb991d6e411caec1f7318a0d7533b1305607a704617118a0",
+      "hash": "1c2ab02912a30d8d6cc6efb039d1eee59322b0619d6c53521480ff4fc24617fc"
+    },
+    {
+      "index": 6,
+      "timestamp": 1764729911.8831275,
+      "barangay": "Banuyo",
+      "votes": [
+        {
+          "voter_id": "8",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        },
+        {
+          "voter_id": "9",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "1c2ab02912a30d8d6cc6efb039d1eee59322b0619d6c53521480ff4fc24617fc",
+      "hash": "066d2aff37b06d7477e9eea3664aa5a1a0584068f8998f5d8a7c907872a5c619"
+    },
+    {
+      "index": 7,
+      "timestamp": 1764729911.8924868,
+      "barangay": "Baras",
+      "votes": [
+        {
+          "voter_id": "10",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "GALO, IAN ERVIN (IND)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "ANG, JAY ANTHONY (PFP)",
+              "CAPITO, ANNABELLE (PDPLBN)",
+              "APELADO, JESSIE (IND)",
+              "BAGRO, CELERINO JR. (IND)",
+              "ABOBO, WILFRED (IND)",
+              "AFABLE, CRIS (IND)",
+              "CAMPOMANES, ONINS (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "066d2aff37b06d7477e9eea3664aa5a1a0584068f8998f5d8a7c907872a5c619",
+      "hash": "98e360821be2f9ef83b39c6f9e8981d456e905826aea952a57f98539e4cdd36c"
+    },
+    {
+      "index": 8,
+      "timestamp": 1764729911.9016433,
+      "barangay": "Bato",
+      "votes": [
+        {
+          "voter_id": "11",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "98e360821be2f9ef83b39c6f9e8981d456e905826aea952a57f98539e4cdd36c",
+      "hash": "cabd3bd3a46b7acee2a1eb28490b7bd9bc43d04cd086ccb055a5a52eb46175b2"
+    },
+    {
+      "index": 9,
+      "timestamp": 1764729911.909968,
+      "barangay": "Bayobay",
+      "votes": [
+        {
+          "voter_id": "12",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "CAINDAY, KATHLYN JANE (PFP)",
+              "ARAGO, MELCHO (IND)",
+              "ESCOTO, BOTOY (LAKAS)",
+              "APELADO, JESSIE (IND)",
+              "ABOBO, WILFRED (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "cabd3bd3a46b7acee2a1eb28490b7bd9bc43d04cd086ccb055a5a52eb46175b2",
+      "hash": "6ebf08112692a6cb7f979995cba28b01f6c6f06f1e37e4e822782b83ba28a162"
+    },
+    {
+      "index": 10,
+      "timestamp": 1764729911.921914,
+      "barangay": "Benowangan",
+      "votes": [
+        {
+          "voter_id": "14",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "6ebf08112692a6cb7f979995cba28b01f6c6f06f1e37e4e822782b83ba28a162",
+      "hash": "550f96667f6770873106bb208fae6a28bd692a660533b39ee7a5b906d92ac075"
+    },
+    {
+      "index": 11,
+      "timestamp": 1764729911.9501252,
+      "barangay": "Bugas",
+      "votes": [
+        {
+          "voter_id": "13",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "550f96667f6770873106bb208fae6a28bd692a660533b39ee7a5b906d92ac075",
+      "hash": "739492f8b4a6c53ce7d83a662a3c02b80659604d127b26c357b8b390f59ddeab"
+    },
+    {
+      "index": 12,
+      "timestamp": 1764729911.961414,
+      "barangay": "Cabalagnan",
+      "votes": [
+        {
+          "voter_id": "16",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "739492f8b4a6c53ce7d83a662a3c02b80659604d127b26c357b8b390f59ddeab",
+      "hash": "deda319d41a08eb8ad6217aa263e26a47507ea0a0e551e6dfee73e79b155c12a"
+    },
+    {
+      "index": 13,
+      "timestamp": 1764729911.9721627,
+      "barangay": "Cabong",
+      "votes": [
+        {
+          "voter_id": "18",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "deda319d41a08eb8ad6217aa263e26a47507ea0a0e551e6dfee73e79b155c12a",
+      "hash": "9c21362a598ff5e25228d6960358d5a36a48aa8fbfd839e314305aa95481a746"
+    },
+    {
+      "index": 14,
+      "timestamp": 1764729911.9801083,
+      "barangay": "Cagbonga",
+      "votes": [
+        {
+          "voter_id": "19",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "9c21362a598ff5e25228d6960358d5a36a48aa8fbfd839e314305aa95481a746",
+      "hash": "ec9c3e64f1a4fca2852b0ea777f5d38e232996faf1c5c6b4f2e6340498508e25"
+    },
+    {
+      "index": 15,
+      "timestamp": 1764729911.9903948,
+      "barangay": "Calico-an",
+      "votes": [
+        {
+          "voter_id": "51",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "ec9c3e64f1a4fca2852b0ea777f5d38e232996faf1c5c6b4f2e6340498508e25",
+      "hash": "c10e64fc95bc9e9e9fefc751849a4ea64564c8f9ab5f2903c934af98aebb54cd"
+    },
+    {
+      "index": 16,
+      "timestamp": 1764729912.0007408,
+      "barangay": "Calingatngan",
+      "votes": [
+        {
+          "voter_id": "52",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "c10e64fc95bc9e9e9fefc751849a4ea64564c8f9ab5f2903c934af98aebb54cd",
+      "hash": "78dae7905555ffbfae4470f18e5eb4c9c5a0662d5029acaf8beb007bcdd659a4"
+    },
+    {
+      "index": 17,
+      "timestamp": 1764729912.0115478,
+      "barangay": "Campesao",
+      "votes": [
+        {
+          "voter_id": "53",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "78dae7905555ffbfae4470f18e5eb4c9c5a0662d5029acaf8beb007bcdd659a4",
+      "hash": "e3889999cd7885b353484d74ca7212ea0f12bf6fba4f234cf64da75d75eb6402"
+    },
+    {
+      "index": 18,
+      "timestamp": 1764729912.0218165,
+      "barangay": "Can-abong",
+      "votes": [
+        {
+          "voter_id": "54",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "e3889999cd7885b353484d74ca7212ea0f12bf6fba4f234cf64da75d75eb6402",
+      "hash": "387a8a596ee444c9c4cc3c75666f6eeb4155d2a6229d6ed10d727372f7a96b49"
+    },
+    {
+      "index": 19,
+      "timestamp": 1764729912.0320504,
+      "barangay": "Lalawigan",
+      "votes": [
+        {
+          "voter_id": "58",
+          "candidates": {
+            "Mayor": "PICARDAL, DINDO (IND)",
+            "Vice Mayor": "FRANCO, KUYA VIC OHOYY (NPC)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "387a8a596ee444c9c4cc3c75666f6eeb4155d2a6229d6ed10d727372f7a96b49",
+      "hash": "d93da8bc00bd1891ad92c4a88574bd2d3019d3d4a7d110b898b1537cdebc5dcf"
+    },
+    {
+      "index": 20,
+      "timestamp": 1764729912.042332,
+      "barangay": "Tamoso",
+      "votes": [
+        {
+          "voter_id": "59",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "d93da8bc00bd1891ad92c4a88574bd2d3019d3d4a7d110b898b1537cdebc5dcf",
+      "hash": "11e00cba27fc3ae2462817056f1cc4afcf13cab21b70f81b0ea37cedb546c02d"
+    },
+    {
+      "index": 21,
+      "timestamp": 1765246108.998037,
+      "barangay": "San Jose",
+      "votes": [
+        {
+          "voter_id": "9889",
+          "candidates": {
+            "Mayor": "AGDA, DAYAN (PFP)",
+            "Vice Mayor": "TIU SONCO, EMMANUEL (LAKAS)",
+            "Councilor": [
+              "DAZA, ZEN (PFP)",
+              "ANACTA, KATRINA (PFP)",
+              "LIMBAUAN, LYRA GEL (PFP)",
+              "TIU, GLAIZA (PFP)",
+              "BAGACAY, TOTOY ENAT (IND)",
+              "UY, FRICH BAYLON (PFP)"
+            ]
+          }
+        }
+      ],
+      "previous_hash": "11e00cba27fc3ae2462817056f1cc4afcf13cab21b70f81b0ea37cedb546c02d",
+      "hash": "dcfb27185e2e0d6be0d09ba85a5b400be80f22591c175f569bc526754ae5101c"
+    }
+  ],
+  "current_votes_by_barangay": {
+    "Alang-alang": [],
+    "Amantacop": [],
+    "Ando": [],
+    "Balacdas": [],
+    "Balud": [],
+    "Banuyo": [],
+    "Baras": [],
+    "Bato": [],
+    "Bayobay": [],
+    "Benowangan": [],
+    "Bugas": [],
+    "Cabalagnan": [],
+    "Cabong": [],
+    "Cagbonga": [],
+    "Calico-an": [],
+    "Calingatngan": [],
+    "Campesao": [],
+    "Can-abong": [],
+    "Lalawigan": [],
+    "Tamoso": [],
+    "San Jose": []
+  },
+  "voters_by_barangay": {
+    "Alang-alang": [
+      "07",
+      "03",
+      "010",
+      "1",
+      "05",
+      "015",
+      "2",
+      "06",
+      "017",
+      "018",
+      "013",
+      "01",
+      "011",
+      "08",
+      "019",
+      "3",
+      "014",
+      "04",
+      "016",
+      "02"
+    ],
+    "Amantacop": [
+      "25",
+      "30",
+      "55",
+      "26",
+      "22",
+      "28",
+      "4",
+      "27",
+      "24",
+      "20",
+      "60",
+      "29",
+      "23",
+      "21"
+    ],
+    "Ando": [
+      "34",
+      "61",
+      "032",
+      "33",
+      "5",
+      "36",
+      "31",
+      "39",
+      "35",
+      "031",
+      "56",
+      "38",
+      "40",
+      "033",
+      "37",
+      "034",
+      "32"
+    ],
+    "Balacdas": [
+      "6",
+      "42",
+      "41",
+      "43"
+    ],
+    "Balud": [
+      "7"
+    ],
+    "Banuyo": [
+      "8",
+      "9"
+    ],
+    "Baras": [
+      "10"
+    ],
+    "Bato": [
+      "11"
+    ],
+    "Bayobay": [
+      "12"
+    ],
+    "Benowangan": [
+      "14"
+    ],
+    "Bugas": [
+      "13"
+    ],
+    "Cabalagnan": [
+      "16"
+    ],
+    "Cabong": [
+      "18"
+    ],
+    "Cagbonga": [
+      "19"
+    ],
+    "Calico-an": [
+      "51"
+    ],
+    "Calingatngan": [
+      "52"
+    ],
+    "Campesao": [
+      "53"
+    ],
+    "Can-abong": [
+      "54"
+    ],
+    "Lalawigan": [
+      "58"
+    ],
+    "Tamoso": [
+      "59"
+    ],
+    "San Jose": [
+      "9889"
+    ]
+  },
+  "mined_barangays": [
+    "Benowangan",
+    "Campesao",
+    "San Jose",
+    "Lalawigan",
+    "Amantacop",
+    "Cagbonga",
+    "Baras",
+    "Balud",
+    "Tamoso",
+    "Bayobay",
+    "Alang-alang",
+    "Cabalagnan",
+    "Ando",
+    "Banuyo",
+    "Calingatngan",
+    "Balacdas",
+    "Cabong",
+    "Bugas",
+    "Bato",
+    "Can-abong",
+    "Calico-an"
+  ],
+  "allowed_candidates": {
+    "Mayor": [
+      "AGDA, DAYAN (PFP)",
+      "PICARDAL, DINDO (IND)"
+    ],
+    "Vice Mayor": [
+      "TIU SONCO, EMMANUEL (LAKAS)",
+      "FRANCO, KUYA VIC OHOYY (NPC)"
+    ],
+    "Councilor": [
+      "DAZA, ZEN (PFP)",
+      "ANACTA, KATRINA (PFP)",
+      "LIMBAUAN, LYRA GEL (PFP)",
+      "TIU, GLAIZA (PFP)",
+      "BAGACAY, TOTOY ENAT (IND)",
+      "UY, FRICH BAYLON (PFP)",
+      "CAINDAY, KATHLYN JANE (PFP)",
+      "GALO, IAN ERVIN (IND)",
+      "ARAGO, MELCHO (IND)",
+      "ESCOTO, BOTOY (LAKAS)",
+      "ANG, JAY ANTHONY (PFP)",
+      "CAPITO, ANNABELLE (PDPLBN)",
+      "APELADO, JESSIE (IND)",
+      "BAGRO, CELERINO JR. (IND)",
+      "ABOBO, WILFRED (IND)",
+      "AFABLE, CRIS (IND)",
+      "CAMPOMANES, ONINS (IND)"
+    ]
+  }
+}

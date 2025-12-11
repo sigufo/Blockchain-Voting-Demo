@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blockchain Voting Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Blockchain Voting Demo</h1>
+
+        
+        <div id="voteForm">
+            <button id="voteBtn">Vote</button>
+            <button id="mineBtn">Lock Votes</button>
+            <button id="resultsBtn">Show Results</button>
+            <button id="printBtn">Print</button>
+            <div id="message" role="status"></div>
+        </div>
+
+        
+        <div id="votePopup" class="modal">
+            <div class="modal-content">
+                <h2>Cast Your Vote</h2>
+
+                
+                <label for="popupVoterId">Voter ID:</label>
+                <input type="text" id="popupVoterId" placeholder="Enter Voter's ID">
+
+                
+                <label for="popupBarangay">Barangay:</label>
+                <select id="popupBarangay">
+                    <option value="">Select Barangay</option>
+                    <option>Alang-alang</option>
+                    <option>Amantacop</option>
+                    <option>Ando</option>
+                    <option>Balacdas</option>
+                    <option>Balud</option>
+                    <option>Banuyo</option>
+                    <option>Baras</option>
+                    <option>Bato</option>
+                    <option>Bayobay</option>
+                    <option>Benowangan</option>
+                    <option>Bugas</option>
+                    <option>Cabalagnan</option>
+                    <option>Cabong</option>
+                    <option>Cagbonga</option>
+                    <option>Calico-an</option>
+                    <option>Calingatngan</option>
+                    <option>Campesao</option>
+                    <option>Can-abong</option>
+                    <option>Can-aga</option>
+                    <option>Camada</option>
+                    <option>Canjaway</option>
+                    <option>Canlaray</option>
+                    <option>Canyopay</option>
+                    <option>Divinubo</option>
+                    <option>Hebacong</option>
+                    <option>Hindang</option>
+                    <option>Lalawigan</option>
+                    <option>Libuton</option>
+                    <option>Locsoon</option>
+                    <option>Maybacong</option>
+                    <option>Maypangdan</option>
+                    <option>Pepelitan</option>
+                    <option>Pinanag-an</option>
+                    <option>Purok A (Poblacion)</option>
+                    <option>Purok B (Poblacion)</option>
+                    <option>Purok C (Poblacion)</option>
+                    <option>Purok D1 (Poblacion)</option>
+                    <option>Purok D2 (Poblacion)</option>
+                    <option>Purok E (Poblacion)</option>
+                    <option>Purok F (Poblacion)</option>
+                    <option>Purok G (Poblacion)</option>
+                    <option>Purok H (Poblacion)</option>
+                    <option>Punta Maria (Point Mary / Gintagikan)</option>
+                    <option>Sabang North</option>
+                    <option>Sabang South</option>
+                    <option>San Andres</option>
+                    <option>San Gabriel</option>
+                    <option>San Gregorio</option>
+                    <option>San Jose</option>
+                    <option>San Mateo</option>
+                    <option>San Pablo</option>
+                    <option>San Saturnino</option>
+                    <option>Santa Fe</option>
+                    <option>Siha</option>
+                    <option>Songco</option>
+                    <option>Sohutan</option>
+                    <option>Suribao</option>
+                    <option>Surok</option>
+                    <option>Taboc</option>
+                    <option>Tabunan</option>
+                    <option>Tamoso</option>
+                </select>
+
+                
+                <div id="candidateContainer" class="candidate-section">
+                    
+                </div>
+
+                
+                <div class="popup-buttons">
+                    <button id="submitVoteBtn" class="submit-btn">Submit</button>
+                    <button id="closeVoteBtn" class="close-btn">Close</button>
+                </div>
+            </div>
+        </div>
+
+        <h2>Blockchain (masked view)</h2>
+        <div id="blockchainDisplay"></div>
+
+        <div id="resultsDisplayContainer">
+            <h2>Results (overall)</h2>
+            <div id="resultsDisplay"></div>
+        </div>
+    </div>
+
+    
+    <footer>
+        &copy; 2025 Blockchain Voting Demo. All rights reserved.
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</body>
+</html>

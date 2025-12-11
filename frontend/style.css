@@ -1,0 +1,290 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f4f6f8;
+    color: #333;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #2c3e50;
+}
+
+/* ===========================
+   BUTTONS & MESSAGE
+   =========================== */
+#voteForm {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#voteForm button {
+    padding: 10px 18px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    background: #3498db;
+    color: white;
+    font-size: 14px;
+    transition: 0.2s;
+}
+
+#voteForm button:hover {
+    background: #2980b9;
+}
+
+#message {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4caf50; /* friendly green color */
+    color: #fff;
+    padding: 14px 24px;
+    border-radius: 8px;
+    display: none;
+    font-size: 16px;
+    font-weight: 500;
+    z-index: 10000; /* stay on top */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid #45a049;
+    text-align: center;
+    transition: opacity 0.4s ease; /* for smooth fade-out if desired */
+}
+
+
+/* ===========================
+   POPUP PANEL (Voting)
+   =========================== */
+#votePopup {
+    display: none; /* shown via JS */
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999; /* must be above everything */
+}
+
+#votePopup .modal-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    max-height: 90%;
+    overflow-y: auto;
+    pointer-events: all; /* ensure clicks work */
+}
+
+#votePopup input, #votePopup select {
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0 12px 0;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.candidate-section label {
+    display: block;
+    margin-bottom: 6px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    background: #f7f7f7;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.candidate-section label:hover {
+    background: #e1f0ff;
+}
+
+.popup-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.submit-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.submit-btn:hover {
+    background-color: #218838;
+}
+
+.close-btn {
+    background-color: #e74c3c;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.close-btn:hover {
+    background-color: #c0392b;
+}
+
+/* ===========================
+   BLOCKCHAIN VISUALIZER
+   =========================== */
+#blockchainDisplay {
+    display: flex;             
+    gap: 12px;                
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+    overflow-x: auto;           
+    scroll-behavior: smooth;
+}
+
+.barangay-block {
+    flex: 0 0 auto;             
+    min-width: 180px;
+    max-width: 220px;
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+    text-align: center;
+}
+
+.barangay-block:hover {
+    background: #e0e0e0;
+}
+
+/* Optional: votes inside the block */
+.barangay-votes {
+    display: none;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.barangay-block.expanded .barangay-votes {
+    display: block;
+}
+
+.barangay-votes .vote-item {
+    background: #f1f1f1;
+    padding: 6px 8px;
+    border-radius: 6px;
+    margin-bottom: 4px;
+    font-size: 13px;
+}
+.popup-buttons {
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    gap: 10px;
+    margin-top: 18px;
+}
+
+.popup-box button {
+    display: inline-block;
+    margin: 6px; /* optional spacing */
+}
+
+/* ===========================
+   RESULTS DISPLAY
+   =========================== */
+#resultsDisplayContainer {
+    background: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    margin-top: 15px;
+    max-height: 400px;
+    overflow-y: auto;
+    display: none;
+}
+
+.vote-card {
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin: 6px;
+    background: #f9f9f9;
+    min-width: 150px;
+    text-align: center;
+    transition: 0.2s;
+}
+
+.vote-card:hover {
+    background: #e8f4fd;
+    transform: translateY(-2px);
+}
+
+/* ===========================
+   POPUP FOR MINED/PENDING
+   =========================== */
+.popup-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.popup-box {
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    width: 450px;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.popup-box h2, .popup-box h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.popup-vote-item {
+    padding: 10px;
+    border-radius: 8px;
+    background: #f7f7f7;
+    margin-bottom: 8px;
+}
+
+.popup-box button {
+    margin-top: 12px;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background: #007bff;
+    color: #fff;
+    transition: 0.2s;
+}
+
+.popup-box button:hover {
+    background: #0056b3;
+}
+
+footer{
+    text-align:center; 
+    margin-top:20px;  
+    font-size:14px;
+}
